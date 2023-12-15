@@ -3,4 +3,4 @@ Report figure.zip consolidates all the figures in my report. The SIR_simulation 
 
 The SI, SIS, SEIR, and SEIRS models are all based on ODEs, and the simulation method is similar to the SIR model.
 
-Cstar.m, figure3ks.m, and lamda_s.m reproduce the experimental results presented in paper [5] in my report. figure3ks.m illustrates the results depicted in figure 11 of my report, while lamda_s.m displays the results shown in figures 9 and 10. Before running the codes in Cstar.m, figure3ks.m, and lamda_s.m, you need to install the CVX packages in Matlab.
+Cstar.m, figure3ks.m, and lamda_s.m reproduce the experimental results presented in paper [1] in my report. figure3ks.m illustrates the results depicted in figure 11 of my report, while lamda_s.m displays the results shown in figures 9 and 10. Before running the codes in Cstar.m, figure3ks.m, and lamda_s.m, you need to install the CVX packages in Matlab.
